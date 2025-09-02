@@ -6,7 +6,7 @@ I’m a Passionate Software Engineer who is interested in designing and deliveri
 
 ---
 
-## What I Work On
+## 🔸What I Work On
 - Microservices & Event-Driven Architectures – Golang, Kafka, RabbitMQ, NATS
 - API Design & Integration – gRPC, GraphQL, REST
 - Data & Storage – PostgreSQL, Redis, MongoDB, ksqlDB, MinIO
@@ -17,7 +17,7 @@ I’m a Passionate Software Engineer who is interested in designing and deliveri
 
 ---
 
-## Purpose of This Site
+## 🔸Purpose of This Site
 This site is my personal knowledge base.  
 I use it to:
 - Document what I learn day to day
@@ -28,7 +28,7 @@ It’s not just a résumé — it’s my engineering logbook.
 
 ---
 
-## 📞 Connect with Me
+## 🔸Connect with Me
 - [GitHub](https://github.com/milad-rasouli)
 - [LinkedIn](https://linkedin.com/in/milad-rasouli)  
 - [Email](mailto:milad.rasouli@tuta.io)
