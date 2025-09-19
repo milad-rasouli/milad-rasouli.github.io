@@ -1,5 +1,5 @@
 ---
-title: "Hash Map in Go"
+title: "Hash Map in Golang"
 draft: false
 tags:
   - golang
